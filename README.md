@@ -15,8 +15,8 @@ Users can add tasks (with optional due dates), mark them complete, delete tasks,
 - Tasks stored in a JSON file (no database)
 
 ### 📸 Screenshot
-![Screenshot](![To-Do-List_Flask_Bootstrap](https://github.com/user-attachments/assets/cca92f83-49ce-4ef0-80d0-c3b5ad4f5fe3)
-)
+![image](https://github.com/user-attachments/assets/9ffd50a8-27c3-4bd3-836c-8e55213fe8d3)
+
 
 
 ---
