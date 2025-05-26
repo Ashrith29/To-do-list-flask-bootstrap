@@ -14,6 +14,11 @@ Users can add tasks (with optional due dates), mark them complete, delete tasks,
 - Backend REST API with Flask
 - Tasks stored in a JSON file (no database)
 
+### 📸 Screenshot
+![Screenshot](![To-Do-List_Flask_Bootstrap](https://github.com/user-attachments/assets/cca92f83-49ce-4ef0-80d0-c3b5ad4f5fe3)
+)
+
+
 ---
 ## ⚙️ Setup Instructions
 
